@@ -36,7 +36,7 @@ The API key allows you to access the vast repository of papers available on the 
 To use this program, you first need to clone the Git repository where the program is uploaded. This can easily be done by opening up the Windows terminal and running the following command:
 ```python
 
-git clone https://github.com/[user-name]/[repo-name].git
+git clone https://github.com/snawarhussain/LiteratureReviewGeneator
 ```
 Once you have cloned the repository, navigate to the directory where the program is stored and run the following command:
 
