@@ -1,0 +1,161 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a>
+    <img src="data/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h1 align="center"> &#9997; Literature Review Made Easy &#9997; </h1>
+
+
+Welcome to this comprehensive literature review report, generated with the help of an advanced program that saves you time and effort. This report provides a summary of the latest research on a specific topic, using the latest available data collected through the Springer Nature API.
+</div>
+
+
+
+# Collected Papers
+
+## Fill in the blank for fashion complementary outfit product Retrieval: VISUM summer school competition
+
+<br>
+<a ><font size=2.5>Castro, Eduardo Ferreira, Pedro M.</font></a>
+<br>
+<font size=2.5>In Machine Vision and Applications 2022 </font>
+<br><a href="http://link.springer.com/openurl/fulltext?id=doi:10.1007/s00138-022-01359-x"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/OpenAccess-Yes-9cf" align="bottom"><img src="https://img.shields.io/badge/OpenAccess-Yes-9cf"></a>
+
+## Anstract
+Every year the VISion Understanding and Machine intelligence (VISUM) summer school runs a competition where participants can learn and share knowledge about Computer Vision and Machine Learning in a vibrant environment. 2021 VISUM’s focused on applying those methodologies in fashion. Recently there has been an increase of interest within the scientific community in applying computer vision methodologies to the fashion domain. That is highly motivated by fashion being one of the world’s largest industries presenting a rapid development in e-commerce mainly since the COVID-19 pandemic. Computer Vision for Fashion enables a wide range of innovations from personalized recommendations to outfit matching. The competition enabled students to apply the knowledge acquired in the summer school to a real-world problem. The ambition was to foster research and development in fashion outfit complementary product retrieval by leveraging vast visual and textual data with domain knowledge. For this a new fashion outfit dataset (acquired and curated by FARFETCH) for research and benchmark purposes is introduced. Additionally a competitive baseline with an original negative sampling process for triplet mining was implemented and served as a starting point for participants. The top 3 performing methods are described in this paper since they constitute the reference state-of-the-art for this particular problem. To our knowledge this is the first challenge in fashion outfit complementary product retrieval. Moreover this joint project between academia and industry brings several relevant contributions to disseminating science and technology promoting economic and social development and helping to connect early-career researchers to real-world industry challenges.
+
+
+## On the ability of machine learning methods to discover novel scaffolds
+
+<br>
+<a ><font size=2.5>Jagdev, Rishi Madsen, Thomas Bruun</font></a>
+<br>
+<font size=2.5>In Journal of Molecular Modeling 2022 </font>
+<br><a href="http://link.springer.com/openurl/fulltext?id=doi:10.1007/s00894-022-05359-6"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/OpenAccess-No-9cf" align="bottom"><img src="https://img.shields.io/badge/OpenAccess-No-9cf"></a>
+
+## Anstract
+The recent advances in the application of machine learning to drug discovery have made it a ‘hot topic’ for research with hundreds of academic groups and companies integrating machine learning into their drug discovery projects. Nevertheless there remains great uncertainty regarding the most appropriate ways to evaluate the relative performance of these powerful methods against more traditional cheminformatics approaches and many pitfalls remain for the unwary. In 2020 researchers at MIT (Stokes et al. Cell 180(4) 688–702 2020 ) reported the discovery of a new compound with antibacterial activity halicin through the use of a neural network machine learning method. A robust ability to identify new active chemotypes through computational methods would be very useful. In this study we have used the Stokes et al. dataset to compare the performance of this method to two other approaches Mapping of Activity Through Dichotomic Scores (MADS) by Todeschini et al. ( J Chemom 32(4):e2994 2018 ) and Random Matrix Theory (RMT) by Lee et al. ( Proc Natl Acad Sci 116(9):3373–3378 2019 ). Our results demonstrate that all three methods are capable of predicting halicin as an active antibacterial compound but that this result is dependent on the dataset composition pre-processing and the molecular fingerprint used. We have further assessed overall performance as determined by several performance metrics. We also investigated the scaffold hopping potential of the methods by modifying the dataset by removal of the β -lactam and fluoroquinolone chemotypes. MADS and RMT are able to identify actives in the test set that contained these substructures. This ability arises because of high scoring fragments of the withheld chemotypes that are in common with other active antibiotic classes. Interestingly MADS is relatively better compared to the other two methods based on general predictive performance.
+
+
+## Recent applications of machine learning and deep learning models in the prediction diagnosis and management of diabetes: a comprehensive review
+
+<br>
+<a ><font size=2.5>Afsaneh, Elaheh Sharifdini, Amin</font></a>
+<br>
+<font size=2.5>In Diabetology & Metabolic Syndrome 2022 </font>
+<br><a href="https://www.biomedcentral.com/openurl?doi=10.1186/s13098-022-00969-9"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/OpenAccess-Yes-9cf" align="bottom"><img src="https://img.shields.io/badge/OpenAccess-Yes-9cf"></a>
+
+## Anstract
+Diabetes as a metabolic illness can be characterized by increased amounts of blood glucose. This abnormal increase can lead to critical detriment to the other organs such as the kidneys eyes heart nerves and blood vessels. Therefore its prediction prognosis and management are essential to prevent harmful effects and also recommend more useful treatments. For these goals machine learning algorithms have found considerable attention and have been developed successfully. This review surveys the recently proposed machine learning (ML) and deep learning (DL) models for the objectives mentioned earlier. The reported results disclose that the ML and DL algorithms are promising approaches for controlling blood glucose and diabetes. However they should be improved and employed in large datasets to affirm their applicability.
+
+
+## High relative amount of nodular calcification in femoral plaques is associated with milder lower extremity arterial disease
+
+<br>
+<a ><font size=2.5>Azeez, Mae Laivuori, Mirjami</font></a>
+<br>
+<font size=2.5>In BMC Cardiovascular Disorders 2022 </font>
+<br><a href="https://www.biomedcentral.com/openurl?doi=10.1186/s12872-022-02945-7"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/OpenAccess-Yes-9cf" align="bottom"><img src="https://img.shields.io/badge/OpenAccess-Yes-9cf"></a>
+
+## Anstract
+Background Clinical implications of different types of vascular calcification are poorly understood. The two most abundant forms of calcification nodular and sheet calcification have not been quantitatively analyzed in relation to the clinical presentation of lower extremity arterial disease (LEAD). Methods The study analyzed 51 femoral artery plaques collected during femoral endarterectomy characterized by the presence of > 90% stenosis. Comprehensive clinical data was obtained from patient records including magnetic resonance angiography (MRA) images toe pressure and ankle brachial index measurements and laboratory values. The plaques were longitudinally sectioned stained with Hematoxylin and Eosin and digitized in a deep learning platform for quantification of the relative area of nodular and sheet calcification to the plaque section area. A deep learning artificial intelligence algorithm was designed and independently validated to reliably quantify nodular calcification and sheet calcification. Vessel measurements and quantity of each calcification category was compared to the risk factors and clinical presentation. Results On average > 90% stenosed vessels contained 22.4 ± 12.3% of nodular and 14.5 ± 11.8% of sheet calcification. Nodular calcification area proportion in lesions with > 90% stenosis is associated with reduced risk of critically low toe pressure (< 30 mmHg) (OR = 0.910 95% CI = 0.835–0.992 p < 0.05) severely lowered ankle brachial index (< 0.4) (OR = 0.912 95% CI = 0.84–0.986 p < 0.05) and semi-urgent operation (OR = 0.882 95% CI = 0.797–0.976 p < 0.05). Sheet calcification did not show any significant association. Conclusions Large amount of nodular calcification is associated with less severe LEAD. Patients with nodular calcification may have better flow reserves despite local obstruction.
+
+
+## Boundary equilibrium SR: effective loss functions for single image super-resolution
+
+<br>
+<a ><font size=2.5>Zhang, Zhechen Lu, Weigang</font></a>
+<br>
+<font size=2.5>In Applied Intelligence 2022 </font>
+<br><a href="http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10489-022-04162-3"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/OpenAccess-No-9cf" align="bottom"><img src="https://img.shields.io/badge/OpenAccess-No-9cf"></a>
+
+## Anstract
+Recently single image super-resolution (SISR) has made great progress due to the rapid development of deep convolutional neural networks (CNN) and the application of Generative Adversarial Networks (GAN ) has made super-resolution networks even more effective. However GAN-based methods have many problems such as lengthy and unstable convergence. To solve these problems this paper presents a mechanism that employs boundary equilibrium in the image super-resolution network to balance the convergence of the generator and the discriminator and improve the visual quality of the generated synthetic images. Furthermore current methods often use perceptual loss based on the VGG network. However experiments show that the visual quality improvement brought by this perceptual loss is very limited so we propose an improved perceptual loss based on Learned Perceptual Image Patch Similarity (LPIPS) to acquire better human visual effects rather than adopting the traditional perceptual loss based on VGG. The experimental results clearly show that using our proposed method can considerably improve the performance of image super-resolution and obtain clearer details than state-of-the-arts.
+
+
+## Multi-resolution analysis and deep neural network architecture based hybrid feature extraction technique for plant disease identification and severity estimation
+
+<br>
+<a ><font size=2.5>K., Kirti Rajpal, Navin</font></a>
+<br>
+<font size=2.5>In Evolutionary Intelligence 2022 </font>
+<br><a href="http://link.springer.com/openurl/fulltext?id=doi:10.1007/s12065-022-00800-4"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/OpenAccess-No-9cf" align="bottom"><img src="https://img.shields.io/badge/OpenAccess-No-9cf"></a>
+
+## Anstract
+The crop protection techniques using efficient plant disease identification are highly beneficial for Smart Agriculture Management which further decreases the gap between the demand/supply of consumers & farmers. However an efficient feature extraction technique is desirable to achieve high accuracy least graphical processing and low processing time for coloured images. Therefore this work proposes a hybrid novel feature extraction technique for coloured plant leaf images to overcome these challenges. This work is divided into two parts: 1). Plant disease identification and 2). Plant disease severity estimation. In this technique multiresolution analysis using large-scale coefficients of Discrete Wavelet Transform (DWT) is performed using orthogonal wavelets. The orthogonal wavelets such as Daubechies Biorthogonal Symlets and Coiflets with appropriate vanishing moments are utilized to select significant features. Then the Eigen decomposition of large-scale DWT-based coloured image features is utilized using Principal Component Analysis (PCA) where only the Eigenvalues with large variance are considered for further feature selection. Several experiments are carried out for the selection of felicitous sub-bands & decomposition levels. The Deep Neural network (DNNs) architectures such as AlexNet ResNet 101 and Inception V3 are incorporated to classify the obtained features. The DNNs operate on Convolutional Neural Networks which utilize the weights from pre-learned ImageNet Database classes to classify various classes. The combination of DNNs with Transfer Learning and Fine Tuning is made to tune the parameters for better efficacy. Experiments were performed on the PlantVillage Database which contains healthy/diseased images of plants such as Apple Corn Grapes and tomato leaves. A new database is created by capturing the images of Rice Crop Leaves including healthy and diseased leaves. A total of 8000 images are processed for disease identification. The proposed technique provided 99% accuracy for disease identification task and 90% for disease severity estimation in the real-life Rice Dataset and outperformed the existing techniques in this field of research.
+
+
+## An approach for identifying historic village using deep learning
+
+<br>
+<a ><font size=2.5>Tao, Jin Li, Geng</font></a>
+<br>
+<font size=2.5>In SN Applied Sciences 2022 </font>
+<br><a href="http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42452-022-05246-y"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/OpenAccess-Yes-9cf" align="bottom"><img src="https://img.shields.io/badge/OpenAccess-Yes-9cf"></a>
+
+## Anstract
+Abstract This paper aims to propose an approach to automatically identify historic villages from remote sensing images based on deep learning algorithm and accurately calculate the villages’ geographical coordinates. Experimental datasets of Conghua a typical region in fast development that retains many historic villages are designated for training and testing. Comparison experiments of two recognition models image classification and object detection are designed to obtain the most suitable identification algorithm. GIS platform is adopted to visualize the distribution of the historic villages. The results show that first the recognition accuracy of the image classification algorithm is 90.79%. However visualization of test results shows the identified area is not a village but a surrounding. Second the recognition accuracy of an object detection algorithm can reach 95.61% which indicates that the algorithm is accurate and efficient. Third by using the Historical-Modern tag as a filter a village with a certain proportion of historic features according to specific requirements may be discriminated. Finally 1531 historic villages in Conghua area were identified by the preferred algorithm and their spatial locations were marked. This research will extend the detection of remote sensing image targets of deep learning algorithms from single buildings to group patterns and complex ground objects so as to promote the integration of heritage conservation and artificial intelligence research. This time-efficiency approach can provide strong support for the discovery and field investigation of historic villages facing fast development and provide a scientific basis for the formulation of conservation policies. Article Highlights Deep learning is applied to the protection of the cultural heritage of historic villages. Comparative experiments of different algorithms are designed to analyse their applicability in historic village recognition. A recognition rate of up to 95.61% is achieved. The visualization of recognition results is important for understanding the relationship between historic villages and nature and historic village conservation.
+
+
+## DKH: a hybridized approach for image inpainting using Bayes probabilistic-based image fusion
+
+<br>
+<a ><font size=2.5>Hudagi, Manjunath R. Soma, Shridevi</font></a>
+<br>
+<font size=2.5>In International Journal of Intelligent Robotics and Applications 2022 </font>
+<br><a href="http://link.springer.com/openurl/fulltext?id=doi:10.1007/s41315-022-00267-7"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/OpenAccess-No-9cf" align="bottom"><img src="https://img.shields.io/badge/OpenAccess-No-9cf"></a>
+
+## Anstract
+Image inpainting is the process of removing the unwanted objects from the image or it refers to the restoration of the original image. Despite the fact that there are various ways for image inpainting these traditional approaches have some limitations in terms of data loss which the proposed methodology should be able to address. This paper introduces a hybrid image inpainting method termed DKH which is the combination of deep learning KNN and biharmonic functions. Three phases make up the proposed DKH technique. The creation of the residual image which takes place in the first phase is accomplished using a Deep Convolutional Neural Network (Deep CNN) that was trained using the whale-monarch butterfly optimization algorithm. The second phase is the formation of patches and generation of the reconstructed image using the neighbour searching phenomenon named K-nearest neighbours (KNN) where the patch with the shortest distance is chosen during patch extraction using the Bhattacharya distance. In the third phase the harmonic image is a reconstruction using biharmonal technique. Finally using the Bayes probabilistic-based fusion method the results of the three steps of image inpainting are combined. The performance of the image inpainting based on the proposed DKH is evaluated in terms of PSNR SDME SSIM and accuracy. The developed image inpainting method achieves the PSNR of 35.63 dB maximal SDME of 95.48 dB the maximal SSIM of 0.960 and the maximal accuracy of 0.921 using Corel-10 k dataset.
+
+
+## Predictive performance of radiomic models based on features extracted from pretrained deep networks
+
+<br>
+<a ><font size=2.5>Demircioğlu, Aydin</font></a>
+<br>
+<font size=2.5>In Insights into Imaging 2022 </font>
+<br><a href="http://link.springer.com/openurl/fulltext?id=doi:10.1186/s13244-022-01328-y"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/OpenAccess-Yes-9cf" align="bottom"><img src="https://img.shields.io/badge/OpenAccess-Yes-9cf"></a>
+
+## Anstract
+Objectives In radiomics generic texture and morphological features are often used for modeling. Recently features extracted from pretrained deep networks have been used as an alternative. However extracting deep features involves several decisions and it is unclear how these affect the resulting models. Therefore in this study we considered the influence of such choices on the predictive performance. Methods On ten publicly available radiomic datasets models were trained using feature sets that differed in terms of the utilized network architecture the layer of feature extraction the used set of slices the use of segmentation and the aggregation method. The influence of these choices on the predictive performance was measured using a linear mixed model. In addition models with generic features were trained and compared in terms of predictive performance and correlation. Results No single choice consistently led to the best-performing models. In the mixed model the choice of architecture (AUC + 0.016; p < 0.001) the level of feature extraction (AUC + 0.016; p < 0.001) and using all slices (AUC + 0.023; p < 0.001) were highly significant; using the segmentation had a lower influence (AUC + 0.011; p = 0.023) while the aggregation method was insignificant ( p = 0.774). Models based on deep features were not significantly better than those based on generic features ( p > 0.05 on all datasets). Deep feature sets correlated moderately with each other ( r = 0.4) in contrast to generic feature sets ( r = 0.89). Conclusions Different choices have a significant effect on the predictive performance of the resulting models; however for the highest performance these choices should be optimized during cross-validation. Extraction of deep features entails several decisions influencing the predictive performance. Models built with pretrained deep features did not outperform generic models. Correlations between pretrained deep and generic feature sets were rather moderate ( r = 0.43).
+
+
+## COVID vaccine stigma: detecting stigma across social media platforms with computational model based on deep learning
+
+<br>
+<a ><font size=2.5>Straton, Nadiya</font></a>
+<br>
+<font size=2.5>In Applied Intelligence 2022 </font>
+<br><a href="http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10489-022-04311-8"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/OpenAccess-Yes-9cf" align="bottom"><img src="https://img.shields.io/badge/OpenAccess-Yes-9cf"></a>
+
+## Anstract
+The study presents the first computational model of COVID vaccine stigma that can identify stigmatised sentiment with a high level of accuracy and generalises well across a number of social media platforms. The aim of the study is to understand the lexical features that are prevalent in COVID vaccine discourse and disputes between anti-vaccine and pro-vaccine groups. This should provide better insight for healthcare authorities enabling them to better navigate those discussions. The study collected posts and their comments related to COVID vaccine sentiment in English from Reddit Twitter and YouTube for the period from April 2020 to March 2021. The labels used in the model “stigma” “not stigma” and “undefined” were collected from a smaller Facebook (Meta) dataset and successfully propagated into a larger dataset from Reddit Twitter and YouTube. The success of the propagation task and consequent classification is a result of state-of-the-art annotation scheme and annotated dataset. Deep learning and pre-trained word vector embedding significantly outperformed traditional algorithms according to two-tailed P(T≤t) test and achieved F1 score of 0.794 on the classification task with three classes. Stigmatised text in COVID anti-vaccine discourse is characterised by high levels of subjectivity negative sentiment anxiety anger risk and healthcare references. After the first half of 2020 anti-vaccination stigma sentiment appears often in comments to posts attempting to disprove COVID vaccine conspiracy theories. This is inconsonant with previous research findings where anti-vaccine people stayed primarily within their own in-group discussions. This shift in the behaviour of the anti-vaccine movement from affirming climates to ones with opposing opinions will be discussed and elaborated further in the study.
+
+This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from [Lan Fei Liu](https://github.com/lanfeiliu/SpringerAPI-ElsevierAPI_LiteratureReviewTable).
+
+<h1 align="center"> 👀 Follow me 👀 </h1>
+
+<div align="center">
+Find out about what i am currently working on
+<br>
+<br>
+  <strong><a href="https://github.com/snawarhussain">Github - </a></strong>
+  <strong><a href="https://www.instagram.com/snawar_hussain/">Instagram</a></strong>
+
+
+<h1 align="center"> ️🤝 Collaborations are Welcome 🤝 </h1>
+
+</div>
