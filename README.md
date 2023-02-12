@@ -17,7 +17,7 @@ Are you tired of manually searching for relevant research papers for your litera
 
 ## How it works
 The program makes use of the Springer Nature API to retrieve information about academic papers that match the given keywords and year. It then generates a markdown file that displays the relevant papers with all their attributes, such as the authors, title, abstract, and more.
-
+you can see the example document generated [here](./final_paper.md)
 ## Getting Started
 
 1. Clone the repository containing the program from Github.
